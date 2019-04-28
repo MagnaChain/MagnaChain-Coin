@@ -5,13 +5,11 @@
   "license": "GZJZ",
   "repository": "git://github.com/MagnaChain/MagnaChain-Coin.git",
   "homepage": "https://github.com/MagnaChain/MagnaChain-Coin",
-  
   "author": "Felix Lee <ustcerlf@gmail.com>",
-  
   "keywords": [
     "MagnaChain",
     "wallet",
-    "cryptocurrency",
+    "cryptocurrency"
   ],
   "engines": {
     "node": ">=8.0.0"
